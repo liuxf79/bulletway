@@ -6,7 +6,7 @@
 ```
 ./js
 ├── base                                   // 定义游戏开发基础类
-│   ├── DataStore.js                       // 帧动画的简易实现
+│   ├── DataStore.js                       // 游戏内数据仓库
 │   ├── Resource.js                        // 游戏资源
 |   ├── ResourceLoader.js                  // 游戏资源加载类
 │   └── Sprite.js                          // 游戏基本元素精灵类
